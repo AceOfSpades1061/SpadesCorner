@@ -1,6 +1,6 @@
 <p align="center"><img src="SpadesCornerLogoV1.png" height="200"></p>
 
-<h1 align="center">SpadesConer</h1>
+<h1 align="center">SpadesCorner</h1>
 
 SpadesCorner, Based off Scramjet by Mercury Workshop.
 
